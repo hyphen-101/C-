@@ -1,0 +1,3 @@
+Realice un programa que solicite de la entrada estandar
+un entero dle 1 al 10 y muestre en la salida estandar su
+tabla de multiplicar.

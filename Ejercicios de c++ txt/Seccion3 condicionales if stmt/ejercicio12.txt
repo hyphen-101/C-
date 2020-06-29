@@ -1,0 +1,4 @@
+Hacer un menu que cosidere las siguientes opciones:
+caso 1: Cubo de un numero
+caso 2: Numero par o impar
+caso 3 salir

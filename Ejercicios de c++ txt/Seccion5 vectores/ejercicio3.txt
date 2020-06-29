@@ -1,0 +1,3 @@
+Escribe un programa que lea de la entrada estandar un 
+vector de numeros y muestre en la salida estandar los
+numeros del vector con sus indices asociados

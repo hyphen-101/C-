@@ -1,0 +1,5 @@
+En una clase 5 alumnos se han realizado tres examenes
+y se requiere determinar el numero de:
+a) Alumnos que aprobaron todos los examenes
+b) Alumnos que aprobaron al menos un examen
+c) Alumnos que aprobaron unicamente el ultimo examen

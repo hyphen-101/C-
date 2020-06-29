@@ -1,0 +1,4 @@
+Ejercicio 6:
+Escriba un programa que lea la nota final de 
+cuatro alumnos y calcule la nota final media de
+los cuatro alumnos.

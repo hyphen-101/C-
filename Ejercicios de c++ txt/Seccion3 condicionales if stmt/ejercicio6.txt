@@ -1,0 +1,3 @@
+Escriba un programa que lea de la entrada estandar un
+caracter e idique en la salida estadar si el caracter es una
+vocala minuscula, es una vocal mayuscula o no es una vocal-

@@ -1,0 +1,3 @@
+Ejercicio 4:
+Escribe la siguiente expresion como expresion de c++:
+a+b/(c-d).

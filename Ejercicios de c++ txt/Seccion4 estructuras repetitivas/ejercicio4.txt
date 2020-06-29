@@ -1,0 +1,4 @@
+Escriba un programa que tome cada 4 horas la temperatura
+exterior, leyendola durante un periodo de 24horas. Es
+decir, debe leer 6 temperaturas. Calcule la temperatura
+media del dia, la temperatura mas alta y la mas baja.

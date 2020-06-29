@@ -1,0 +1,3 @@
+Escriba un programa que solicite una edad (un entero) e
+indique en la salida estandar si la edad introducida esta
+en el rango [18-25]

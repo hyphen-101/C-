@@ -1,0 +1,3 @@
+Escribe un programa que defina un vector de numeros 
+y muestre en la salida estandar el vector en orden inverso
+del ultimo al primer elemento.

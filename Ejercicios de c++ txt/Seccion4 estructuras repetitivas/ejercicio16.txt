@@ -1,0 +1,3 @@
+Realice un programa que calcule la descomposicion en 
+factores primos de un numero entero.
+Por ejemplo: 20=2*2*5
